@@ -1,1 +1,1 @@
-So this was the first website I made when I first started learning web dev.. This was also the first time me using github. Though this repo is far more simpler than what I'll be adding afterwards, but it will always remain the special one, as to see how far I have come starting from here :) 
+A simple website made entirely using HTML5.  
